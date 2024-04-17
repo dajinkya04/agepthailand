@@ -1,0 +1,18 @@
+ .bg-form {
+    background-image: linear-gradient(45deg,
+    rgba(135, 174, 220, 0.75),
+    rgba(0, 0, 0, 0.50)),  url('../../assets/contact/10.jpg');
+    background-size: cover;
+    height:60vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-position:center center;
+    background-attachment:fixed;
+  } 
+.btn{
+  background:#F77700;
+  color:#fff;
+}
+  
+ 

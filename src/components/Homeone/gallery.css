@@ -1,0 +1,25 @@
+.gallery {
+    /* background:#080028; */
+    text-align:center;
+    color:#fff;
+   }
+   .gallery h2{
+    font-size:200px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 50;
+    
+   }
+   .gallery p{
+    font-size:25px;
+    color:#F77700;
+    overflow:hidden;
+   }
+   .gallery .sub-gallery{
+    padding:10%;
+   }
+   .gallery .sub-gallery img{
+    padding :5%;
+   }
+   .gallery .sub-gallery .sub-img{
+    margin-top:-7%;
+   }
